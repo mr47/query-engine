@@ -41,7 +41,7 @@ QueryEngine provides extensive Querying, Filtering, and Searching abilities for 
 * supports optional live collections (when a model is changed, added or removed, it can automatically be tested against the collections queries, filters, and search string, if it fails, remove it from the collection)
 * supports parent and child collections (when a parent collection has a model removed, it is removed from the child collection too, when a parent collection has a model added or changed, it is retested against the child collection)
 * actively maintained, supported, and implemented by several companies
-
+* amd ready solution for backbone requirejs
 
 ## Compatability
 
