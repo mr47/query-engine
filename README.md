@@ -144,6 +144,7 @@ These amazing people have contributed code to this project:
 ## License
 
 Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)
+Plus: This software can not be used for commercial purposes without the written permission of the author.
 
 Copyright &copy; 2012+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)
 <br/>Copyright &copy; 2011 Benjamin Lupton <b@lupton.cc> (http://balupton.com)
